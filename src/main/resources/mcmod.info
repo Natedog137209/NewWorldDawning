@@ -1,0 +1,19 @@
+[
+{
+  "modid": "NewWorldDawning",
+  "name": "NewWorldDawning",
+  "description": "Add on for NewWorldDawning",
+  "version": "0.0.1",
+  "credits": "Created by mod maker MCreator and Natedog137209",
+  "logoFile": "/logo.png",
+  "mcversion": "1.7.10",
+  "url": "http://mcreator.pylo.si/",
+  "updateUrl": "",
+  "authors": [ "Natedog137209" , "MCreator" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
